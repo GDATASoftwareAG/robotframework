@@ -155,5 +155,3 @@ in the ecosystem are also open source, but they may use different licenses.
 
 __ http://apache.org/licenses/LICENSE-2.0
 __ http://creativecommons.org/licenses/by/3.0
-
-
